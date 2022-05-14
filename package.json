@@ -1,12 +1,12 @@
 
 {
-  "name": "react-native-volume-listen",
+  "name": "react-native-volume-listener",
   "version": "1.0.0",
-  "description": "Volume listen",
+  "description": "Volume listener",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nghi-NV/react-native-volume-listen.git"
+    "url": "https://github.com/PartitionPixel/react-native-volume-listener.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": "nghinv@luci.vn",
+  "author": "PartitionPixel",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
